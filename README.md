@@ -3,4 +3,3 @@ This project is done using Python where we collect thousands of tweets using Twy
 
 The output of analysis shows how much positive, negative and neutral support does the candidates get and compare them to show what percentage of people are happy with the candidate.
 
-Get the project from github : https://github.com/md-Junaid/sentiment-analysis
